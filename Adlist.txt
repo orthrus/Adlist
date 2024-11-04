@@ -1,0 +1,6 @@
+0.0.0.0 ping.ui.com
+
+# AndroidTV
+0.0.0.0 androidtvchannels-pa.googleapis.com
+0.0.0.0 androidtvwatsonfe-pa.googleapis.com
+0.0.0.0 beacons.gvt2.com
